@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #20bcd1;
+    background-image: url(aca5.png)
+  
+  }
+  
+  form {
+    display: flex;
+    flex-direction: unset; nav-down: unset;
+    max-width: 550px;
+    margin: 0 auto;
+    padding: 30px;
+    border: 7px solid #000000f8;
+    border-radius: 10px;
+    margin-top: 300px;
+    background-color: rgb(255, 255, 255);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+  }
+  
+  label, input {
+    margin-bottom: 8px;
+    background-color: rgb(255, 255, 255);
+    border: 2px solid #000000
+    
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #42da4ace;
+    color: #ffffff;
+    border: solid;
+    border-radius: 30px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: rgba(189, 189, 189, 0.847);
+  }
+  
+  #result {
+    font-weight: lighter;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 8px solid #78e68ada;
+    border-radius: 10px;
+    margin-top: 10px;
+    background-color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+    
+  }
